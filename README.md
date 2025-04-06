@@ -1,7 +1,6 @@
 # Daily-SQL_Python-Practice
 
-This repository contains daily practice questions and solutions for SQL and Python. 
+* As a Data Science and Analytics professional, I recoginze the skills of SQL, and Python to be invaluable. To keep constaly improving myself, I use this repository to practice SQL and Python daily.
 
-## Repository Structure
-- `SQL/` - Contains SQL questions and solutions.
-- `Python/` - Contains Python questions and solutions.
+* Mostly, SQL questions are soruced from LLMs like ChatGPT, and Gemini. For Python, sources range from LLms, to popular problem solving websites
+
